@@ -6,7 +6,7 @@ title: "Adjustable Stand"
 date: 2020
 published: true
 labels:
-  - java
+  - Product Design
 summary: "This was a project for a STEM competition."
 ---
 
