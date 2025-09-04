@@ -6,7 +6,7 @@ title: "A Future in Constant Change"
 date: 2026-09-03
 published: true
 labels:
-  - Engineering
+  - Career Goal
 ---
 
 <img width="200px" class="rounded float-start pe-4" src="../img/future/future.jpg">
