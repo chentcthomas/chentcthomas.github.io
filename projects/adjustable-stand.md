@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: img/adjustable/adjustable.jpeg
+image: img/adjustable/adjustable.jpg
 title: "Adjustable Stand"
 date: 2020
 published: true
