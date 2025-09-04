@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: img/fish-pond/fish-pond.jpeg
+image: img/fish-pond/fish-pond.jpg
 title: "Fish Pond Ecosystem Simulation"
 date: 2024
 published: true
