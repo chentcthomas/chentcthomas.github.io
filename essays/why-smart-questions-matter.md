@@ -4,7 +4,7 @@ type: essay
 title: "Why Smart Questions Matter"
 # All dates must be YYYY-MM-DD format!
 date: 2026-09-11
-published: false
+published: true
 labels:
   - Stack overFlow
 ---
