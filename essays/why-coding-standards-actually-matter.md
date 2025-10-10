@@ -3,7 +3,7 @@ layout: essay
 type: essay
 title: "Why Coding Standards Actually Matter"
 # All dates must be YYYY-MM-DD format!
-date: 2026-09-25
+date: 2025-09-25
 published: true
 labels:
   - Coding Standards

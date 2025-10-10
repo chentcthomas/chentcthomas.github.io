@@ -3,7 +3,7 @@ layout: essay
 type: essay
 title: "Learning TypeScript and WODs feels like racing against time"
 # All dates must be YYYY-MM-DD format!
-date: 2026-09-11
+date: 2025-09-11
 published: true
 labels:
   - TypeScript

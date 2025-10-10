@@ -3,7 +3,7 @@ layout: essay
 type: essay
 title: "A Future in Constant Change"
 # All dates must be YYYY-MM-DD format!
-date: 2026-09-03
+date: 2025-09-03
 published: true
 labels:
   - Career Goal
