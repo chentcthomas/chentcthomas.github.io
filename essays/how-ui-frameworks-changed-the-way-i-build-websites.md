@@ -15,6 +15,11 @@ Before I started using any frameworks, I always built my websites with plain HTM
 
 But I soon realized the problem. As my projects became more detailed and complex, every time I wanted to change the layout, I had to start rewriting my CSS from scratch. If I wanted the website to look right on both phones and computers, I needed to write a bunch of extra code just to make it responsive.
 
+## My First Time Using a Framework
+When I first tried Bootstrap 5, that’s when I truly understood how powerful frameworks could be. At the beginning, it was really painful to learn. I had to memorize so many class names like container, row, col, and navbar. These are all CSS classes I would use over and over again, and it honestly felt like I was learning another programming language.
+
+But when I used it to finish my first webpage, I was honestly amazed. The layout automatically aligned itself without me needing to manually adjust anything. I didn’t have to worry about how it would look on different screen sizes, everything just worked. At that moment, I finally understood why so many people recommend UI frameworks.
+
 <div class="row justify-content-center align-items-center">
   <div class="col-md-6 d-flex flex-column align-items-center">
     <img src="../img/how/original.png" class="img-fluid rounded mb-2" style="max-height:400px;" alt="Original version">
@@ -26,11 +31,6 @@ But I soon realized the problem. As my projects became more detailed and complex
     <figcaption class="fst-italic text-center">Recreated.</figcaption>
   </div>
 </div>
-
-## My First Time Using a Framework
-When I first tried Bootstrap 5, that’s when I truly understood how powerful frameworks could be. At the beginning, it was really painful to learn. I had to memorize so many class names like container, row, col, and navbar. These are all CSS classes I would use over and over again, and it honestly felt like I was learning another programming language.
-
-But when I used it to finish my first webpage, I was honestly amazed. The layout automatically aligned itself without me needing to manually adjust anything. I didn’t have to worry about how it would look on different screen sizes, everything just worked. At that moment, I finally understood why so many people recommend UI frameworks.
 
 ## Improving Efficiency
 After I got more familiar with the framework, the biggest difference I noticed was how much faster everything became, and how much better my websites looked. Before, I could spend an hour just building the most basic layout. Now, things like navigation bars, buttons, and cards are already designed for me. I just need to choose the colors, position them, and fill in the content.
