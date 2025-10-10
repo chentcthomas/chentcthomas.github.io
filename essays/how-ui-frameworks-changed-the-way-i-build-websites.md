@@ -15,7 +15,7 @@ Before I started using any frameworks, I always built my websites with plain HTM
 
 But I soon realized the problem. As my projects became more detailed and complex, every time I wanted to change the layout, I had to start rewriting my CSS from scratch. If I wanted the website to look right on both phones and computers, I needed to write a bunch of extra code just to make it responsive.
 
-<img width="500px" class="rounded float-start pe-4" src="../img/how/snoopy.png">
+<img width="800px" class="rounded float-start pe-4" src="../img/how/snoopy.png">
 ## My First Time Using a Framework
 When I first tried Bootstrap 5, that’s when I truly understood how powerful frameworks could be. At the beginning, it was really painful to learn. I had to memorize so many class names like container, row, col, and navbar. These are all CSS classes I would use over and over again, and it honestly felt like I was learning another programming language.
 
