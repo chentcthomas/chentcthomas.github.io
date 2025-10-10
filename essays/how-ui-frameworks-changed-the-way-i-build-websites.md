@@ -15,20 +15,18 @@ Before I started using any frameworks, I always built my websites with plain HTM
 
 But I soon realized the problem. As my projects became more detailed and complex, every time I wanted to change the layout, I had to start rewriting my CSS from scratch. If I wanted the website to look right on both phones and computers, I needed to write a bunch of extra code just to make it responsive.
 
-<div class="row justify-content-center">
-  <div class="col-md-6 text-center">
-    <figure>
-      <img src="../img/how/original.png" class="img-fluid rounded" alt="Original version without framework">
-      <figcaption class="mt-2 fst-italic">Original.</figcaption>
-    </figure>
+<div class="row justify-content-center align-items-center">
+  <div class="col-md-6 d-flex flex-column align-items-center">
+    <img src="../img/how/original.png" class="img-fluid rounded mb-2" style="max-height:400px;" alt="Original version">
+    <figcaption class="fst-italic text-center">Original.</figcaption>
   </div>
-  <div class="col-md-6 text-center">
-    <figure>
-      <img src="../img/how/snoopy.png" class="img-fluid rounded" alt="Bootstrap version with Snoopy theme">
-      <figcaption class="mt-2 fst-italic">Recreated.</figcaption>
-    </figure>
+
+  <div class="col-md-6 d-flex flex-column align-items-center">
+    <img src="../img/how/snoopy.png" class="img-fluid rounded mb-2" style="max-height:400px;" alt="Bootstrap version">
+    <figcaption class="fst-italic text-center">Recreated.</figcaption>
   </div>
 </div>
+
 ## My First Time Using a Framework
 When I first tried Bootstrap 5, that’s when I truly understood how powerful frameworks could be. At the beginning, it was really painful to learn. I had to memorize so many class names like container, row, col, and navbar. These are all CSS classes I would use over and over again, and it honestly felt like I was learning another programming language.
 
