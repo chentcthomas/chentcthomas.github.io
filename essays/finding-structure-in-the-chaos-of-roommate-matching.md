@@ -10,7 +10,7 @@ labels:
   - Web Development
 ---
 
-<img width="200px" class="rounded float-start pe-4" src="../img/finding/finding.jpg">
+<img width="300px" class="rounded float-start pe-4" src="../img/finding/finding.jpg">
 The main purpose of Roomie Match Mānoa is to help students find a compatible roommate. Personality, daily habits, sleep schedule, and even small preferences can all affect the quality of your life. Since this platform was built to support UH students, my original goal for the project was pretty simple: finish the required features and make sure the website works. But as the development process moved forward, I started to realize that the real challenge wasn’t just building the site. What really mattered was making the system clear, maintainable, and easy to extend. And that’s when I began to notice something I had only seen briefly in textbooks before: design patterns.
 
 To be honest, I wasn’t familiar with design patterns at all in the beginning. They sounded like complicated rules that only experienced engineers really understood. But as the project grew, as features increased, and as our team needed to coordinate more closely, I gradually realized that these “patterns” weren’t abstract ideas. They were actually practical ways of thinking—methods engineers have developed over many years of solving similar problems. They’re not something you memorize. They naturally show up when you try to build a system the right way.
@@ -27,3 +27,4 @@ Looking back, we never planned to use any particular design pattern. We were sim
 
 Years from now, I probably won’t remember every piece of code I wrote for this project. But I think I will remember the main lesson Roomie Match Mānoa taught us: building software isn’t just stacking features together. It’s about designing a system that can survive changes, grow over time, and still make sense to the people who work on it. And that, to me, is what design patterns are really about.
 
+Note: AI was used only to improve the flow and clarity of the writing.
