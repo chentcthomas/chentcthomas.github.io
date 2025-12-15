@@ -36,3 +36,5 @@ If I work on a similar project again, I would break issues into smaller tasks wh
 I would also separate time spent on implementation, debugging, and testing when making estimates. That separation would make my planning more realistic and easier to control.
 
 Overall, the biggest benefit of effort estimation was learning how to manage my pace and time more intentionally. This skill will be useful for long-term projects and future development work.
+
+ChatGPT was used for grammar checking and wording adjustments.
