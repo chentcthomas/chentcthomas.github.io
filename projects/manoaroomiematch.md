@@ -24,9 +24,9 @@ For communication, we used Discord and iMessage to discuss the project and coord
 
 <div class="text-center p-4">
   <div class="mb-3">
-    <img width="700px" src="../img/roomiematch/2.png" class="img-thumbnail">
+    <img width="900px" src="../img/roomiematch/2.png" class="img-thumbnail">
   </div>
   <div>
-    <img width="700px" src="../img/roomiematch/3.png" class="img-thumbnail">
+    <img width="900px" src="../img/roomiematch/3.png" class="img-thumbnail">
   </div>
 </div>
